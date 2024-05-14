@@ -1,0 +1,8 @@
+
+path: "P:/python for ai, dev/pythonProject/python_project_on_object_detection_in_custom_dataset/data"  # dataset root dir
+train: "images"  # train images (relative to 'path')
+val: "validation_data/images"  # val images (relative to 'path')
+
+# Classes
+names:
+  0: alpaca
