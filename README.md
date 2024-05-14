@@ -1,2 +1,3 @@
 # Object-Detection-on-custom-data-set-using-YOLOv8
 This project uses Ultralytics library importing YOLOv8 object detection tool to detect object on a custom dataset
+The data used in this project is downloaded by downloading [downloader.py](https://raw.githubusercontent.com/openimages/dataset/master/downloader.py) file and then downloading the object detection dataset; [train](https://storage.googleapis.com/openimages/v6/oidv6-train-annotations-bbox.csv), [validation](https://storage.googleapis.com/openimages/v5/validation-annotations-bbox.csv) and [test](https://storage.googleapis.com/openimages/v5/test-annotations-bbox.csv).
